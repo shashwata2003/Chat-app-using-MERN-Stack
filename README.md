@@ -1,5 +1,4 @@
 # Chat-app-using-MERN-Stack
-# FrontEnd
 - This repo consists of the Frontend part of a Realtime Chat Application built with the MERN stack.
 
 # Features :
